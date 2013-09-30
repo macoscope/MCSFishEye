@@ -75,8 +75,6 @@ For more detailed description of how `MCSFishEye` works checkout this post on ou
 
 ## License
 
-MCSFishEye is released under an MIT license.
-
 Copyright 2013 Macoscope, sp z o.o.
 
 Licensed under the Apache License, Version 2.0 (the "License"); you may not use
