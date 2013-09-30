@@ -57,9 +57,9 @@ methods, just make sure you call `super` (don't worry, compiler will warn you if
  	[![](https://raw.github.com/macoscope/MCSFisheye/master/Screens/selected.png)](https://raw.github.com/macoscope/MCSFisheye/master/Screens/selected.png)
 
 
-## Detailed explenation
+## Detailed explanation
 
-For more detailed description of how `MCSFishEye` works checkout this post on our blog!
+For more detailed description of how `MCSFishEye` works checkout [this post on our blog](http://macoscope.com/blog/bubble-browsers-fisheye/)!
 
 
 ## Requirements
